@@ -1,0 +1,20 @@
+{
+    "title": "Exercise: Python Largest Value with Optional Argument",
+    "slug": "exercise-python-largest-with-optional-argument",
+    "description": "Create a Python function with an optional boolean argument to switch between largest value and largest absolute value.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "exercise",
+        "python"
+    ],
+    "duration": 10,
+    "prerequisites": [
+        "python-keyword-and-default-arguments"
+    ],
+    "related": [
+        "sample-solution-1-python-largest-with-optional-argument",
+        "sample-solution-2-python-largest-with-optional-argument"
+    ]
+}
