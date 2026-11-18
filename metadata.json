@@ -9,12 +9,11 @@
         "exercise",
         "python"
     ],
-    "duration": 10,
+    "duration": 12,
     "prerequisites": [
-        "python-keyword-and-default-arguments"
+        "python-keyword-and-default-arguments",
+        "python-max-min-functions"
     ],
     "related": [
-        "sample-solution-1-python-largest-with-optional-argument",
-        "sample-solution-2-python-largest-with-optional-argument"
     ]
 }
