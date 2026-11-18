@@ -40,7 +40,7 @@ Click below to reveal a sample solution.
 >     return max_value
 > ```
 >
-> # Test Calls
+> ## Test Calls
 >
 > ```py-cell
 > print(largest([1, 2, -3]))
